@@ -45,6 +45,9 @@ I’m passionate about solving complex technical problems, collaborating with cr
 ![RapidAPI](https://img.shields.io/badge/Rapid-283C86?style=for-the-badge&logo=rapid&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 ![Amazon Textract](https://img.shields.io/badge/Amazon%20Textract-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HumeAI](https://img.shields.io/badge/HumeAI-4B9CE1?style=for-the-badge&logo=hume&logoColor=white) 
+![Vapi](https://img.shields.io/badge/Vapi-FF8C00?style=for-the-badge&logo=vapi&logoColor=white)
+
 
 ## 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
