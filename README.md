@@ -2,13 +2,17 @@
 
 My name is Jerry. I’m currently pursuing an **M.S. in Computer Science** at the University of Southern California. I specialize in **Software Engineering**, **Machine Learning**, and **AI Automation**. I’ve worked on impactful projects across industries: 
 
-- **HikerHub**: Developed a backpacking planning tool that optimizes gear packing and includes a community portal for sharing hiking routes and trip experiences.
+- **HikerHub**:
+  - Developed a backpacking planning tool that optimizes gear packing and includes a community portal for sharing hiking routes and trip experiences.
+  - Enhance the platform with AI-generated trip guidance, offering highlights, safety tips, and packing recommendations.
 
 - **Ecommerce Automation – Jadsy**:  
-  - Built web scrapers and automated purchase tracking using JavaScript and n8n, cutting manual data entry by 80% and syncing real-time inventory via EasyStore API.  
-  - Researched and prototyped chatbot integration to centralize customer messaging across Instagram, LINE, and Facebook.
+  - Build web scrapers and automated purchase tracking using JavaScript and n8n, cutting manual data entry by 80% and syncing real-time inventory via EasyStore API.  
+  - Research and prototype chatbot integration to centralize customer messaging across Instagram, LINE, and Facebook.
 
-- **Healthcare & Insurance**: Created a state-by-state ACA rate comparison tool to streamline premium analysis and improve pricing transparency.
+- **Custom Machine Learning & Deep Learning Frameworks**:
+  - Implemented core ML algorithms from scratch in Pythong, including KNN, Regression, Decision Trees, PCA, HMMs, Q-Learning, and Transformers, with a focus on model logic and training efficienty
+  - Built and trained deep learning models using Keras and PyTorch, accelerating development and experimentation with high-level and low-level APIs
 
 I’m passionate about solving complex technical problems, collaborating with cross-functional teams, and continuously learning new technologies. Let’s connect for potential collaborations or networking!
 
