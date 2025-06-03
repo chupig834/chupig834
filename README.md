@@ -1,10 +1,14 @@
-# 👋 Hi, I’m Jerry Chu
+# 👋 About Me
 
-I’m currently pursuing an **M.S. in Computer Science** at the University of Southern California. I specialize in **Software Engineering**, **Machine Learning**, and **AI Automation**. I’ve worked on impactful projects across industries: 
+My name is Jerry. I’m currently pursuing an **M.S. in Computer Science** at the University of Southern California. I specialize in **Software Engineering**, **Machine Learning**, and **AI Automation**. I’ve worked on impactful projects across industries: 
 
-  - **Outdoor & Travel** Created "HikerHub", a backpakcing planning tools to optimize packing list and include a community portal for sharing routes and trips
-  - **AI Emotional Test** - Built a real-time voice conversational AI to analyze user tone, emotion, and interests to deliver personalized insights
-  - **Healthcare & Insurance**: Developed a state-by-state ACA rate-comparison tool that streamlines premium analysis and visualization.
+- **HikerHub**: Developed a backpacking planning tool that optimizes gear packing and includes a community portal for sharing hiking routes and trip experiences.
+
+- **Ecommerce Automation – Jadsy**:  
+  - Built web scrapers and automated purchase tracking using JavaScript and n8n, cutting manual data entry by 80% and syncing real-time inventory via EasyStore API.  
+  - Researched and prototyped chatbot integration to centralize customer messaging across Instagram, LINE, and Facebook.
+
+- **Healthcare & Insurance**: Created a state-by-state ACA rate comparison tool to streamline premium analysis and improve pricing transparency.
 
 I’m passionate about solving complex technical problems, collaborating with cross-functional teams, and continuously learning new technologies. Let’s connect for potential collaborations or networking!
 
@@ -72,20 +76,6 @@ I’m passionate about solving complex technical problems, collaborating with cr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF4700?style=for-the-badge&logo=n8n&logoColor=white)
-
-## 🚀 Recent Projects
-
-**Search Relevance Ranking**  
-- Developed a neural network model using BERT embeddings and an `MLPClassifier` to rank search results, boosting accuracy by **40%** and reducing irrelevant results by **70%**.
-
-**Corporate Communications Temporal Network Analysis**  
-- Built community detection algorithms with Python, NetworkX, and Pandas to analyze 1M+ communication data points, enhancing insights by **35%**.
-
-**GoodEats App**  
-- Designed and developed a full-stack restaurant tracking app using SwiftUI, Firebase, and the Yelp API for 10,000+ listings. Integrated Google OAuth for **30%** faster logins.
-
-**MedInsight Web Application**  
-- Automated medical record extraction with Python, TypeScript, and MongoDB, reducing data entry time by **80%**.
 
 ---
 
