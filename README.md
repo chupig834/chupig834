@@ -7,7 +7,8 @@ My name is Jerry. I’m currently pursuing an **M.S. in Computer Science** at th
   - Enhance the platform with AI-generated trip guidance, offering highlights, safety tips, and packing recommendations.
 
 - **Ecommerce Automation – Jadsy**:  
-  - Build web scrapers and automated purchase tracking using JavaScript and n8n, cutting manual data entry by 80% and syncing real-time inventory via EasyStore API.  
+  - Build web scrapers to track weekly vendor pricing, improving cost visibility and reducing manual data entry by 80%
+  - Automate end-to-end purchase tracking workflow from email to inventory using JavaScript and n8n, integrating with the EasyStore API to eliminate all manual data entry and ensure real-time inventory accuracy
   - Research and prototype chatbot integration to centralize customer messaging across Instagram, LINE, and Facebook.
 
 - **Custom Machine Learning & Deep Learning Frameworks**:
