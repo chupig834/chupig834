@@ -3,7 +3,7 @@
 My name is Jerry. I’m currently pursuing an **M.S. in Computer Science** at the University of Southern California. I specialize in **Software Engineering**, **Machine Learning**, and **AI Automation**. I’ve worked on impactful projects across industries: 
 
 - **HikerHub**:
-  - Developed a backpacking planning tool that optimizes gear packing and includes a community portal for sharing hiking routes and trip experiences.
+  - Develope a backpacking planning tool that optimizes gear packing and includes a community portal for sharing hiking routes and trip experiences.
   - Enhance the platform with AI-generated trip guidance, offering highlights, safety tips, and packing recommendations.
 
 - **Ecommerce Automation – Jadsy**:  
