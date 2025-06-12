@@ -12,7 +12,7 @@ My name is Jerry. I’m currently pursuing an **M.S. in Computer Science** at th
   - Research and prototype chatbot integration to centralize customer messaging across Instagram, LINE, and Facebook.
 
 - **Custom Machine Learning & Deep Learning Frameworks**:
-  - Implemented core ML algorithms from scratch in Pythong, including KNN, Regression, Decision Trees, PCA, HMMs, Q-Learning, and Transformers, with a focus on model logic and training efficienty
+  - Implemented core ML algorithms from scratch in Python, including KNN, Regression, Decision Trees, PCA, HMMs, Q-Learning, and Transformers, with a focus on model logic and training efficienty
   - Built and trained deep learning models using Keras and PyTorch, accelerating development and experimentation with high-level and low-level APIs
  
 - **Machine Learning Projects**:
